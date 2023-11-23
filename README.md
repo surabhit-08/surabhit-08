@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning adaptive robust optimization and graph neural networks
 - 💞️ I’m looking to collaborate on anything related to mechanics and controls
 - 📫 How to reach me: surabhit.gupta.mec19@iitbhu.ac.in
-- 🖱️ Visit my personal [website](surabhit-08.github.io)
+- 🖱️ Visit my personal [website](https://surabhit-08.github.io/)
 
 <!---
 surabhit-08/surabhit-08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
